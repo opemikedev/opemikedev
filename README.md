@@ -36,9 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/o_pdev) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debsourya-datta-177909225)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@souryatalks4201?si=TRJh1zxwwnx6bZsx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-afolabi-59823130a/)
 
 
 
@@ -81,17 +79,7 @@ You can click the Preview link to take a look at your changes.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white) 
-![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black) 
-
-
-
-
-
-
-
-
-<br/>
+ 
 
 
 
@@ -101,12 +89,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debsouryadatta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=debsouryadatta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debsouryadatta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 

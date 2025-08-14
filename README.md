@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Socials:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/debsourya005](https://x.com/o_pdev)) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]((https://x.com/o_pdev)) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debsourya-datta-177909225)
 
